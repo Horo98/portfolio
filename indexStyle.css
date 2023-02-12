@@ -18,10 +18,10 @@ body {
   }
   
   header img {
-    border-radius: 50%;
-    height: 200px;
+    border-radius: 70%;
+    height: 400px;
     margin-bottom: 20px;
-    width: 200px;
+    width: 300px;
   }
   
   header h1 {
