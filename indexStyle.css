@@ -95,6 +95,10 @@ body {
     text-align: center;
   }
 
+  .project p {
+    text-align: center;
+  }
+
   .tech-stack-item {
  
     display: flex;
@@ -131,6 +135,9 @@ body {
     color: white;
     font-size: 1.2em;
     margin: 0;
+  }
+  #contact{
+    margin-bottom: -40px;
   }
   
   /* Media Queries */
